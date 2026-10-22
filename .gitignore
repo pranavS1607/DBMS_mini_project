@@ -1,0 +1,20 @@
+target/
+.idea/
+.vscode/*.code-workspace
+*.iml
+.env
+config/local.properties
+docs/screenshots/*.png
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+.vscode/.env
+
+# Build output
+target/
+
+# Local caches and tools
+.javafx-cache/
+.tools/

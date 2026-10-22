@@ -1,0 +1,13 @@
+.app-root { -fx-font-family: "Segoe UI", Arial, sans-serif; -fx-background-color: #f5f7fa; }
+.sidebar { -fx-background-color: #102b3f; -fx-padding: 28 16 20 16; -fx-pref-width: 220; }
+.brand { -fx-text-fill: white; -fx-font-size: 20px; -fx-font-weight: bold; -fx-letter-spacing: 1px; }
+.sidebar-subtitle { -fx-text-fill: #a7bbc8; -fx-font-size: 11px; }
+.nav-button { -fx-background-color: transparent; -fx-text-fill: #e5eef3; -fx-alignment: CENTER_LEFT; -fx-padding: 10 12; -fx-font-size: 13px; -fx-cursor: hand; }
+.nav-button:hover { -fx-background-color: #1d475d; -fx-background-radius: 7; }
+.workspace { -fx-background-color: #f5f7fa; }
+.page-title { -fx-font-size: 27px; -fx-font-weight: bold; -fx-text-fill: #142b3b; }
+.page-detail { -fx-text-fill: #58707d; -fx-font-size: 13px; }
+.metric-card { -fx-background-color: white; -fx-background-radius: 10; -fx-padding: 17; -fx-min-width: 190; -fx-effect: dropshadow(gaussian, rgba(16,43,63,.12), 10, 0, 0, 3); }
+.metric-label { -fx-text-fill: #607784; -fx-font-size: 11px; -fx-font-weight: bold; }.metric-value { -fx-text-fill: #102b3f; -fx-font-size: 21px; -fx-font-weight: bold; }.metric-extra { -fx-text-fill: #16866b; -fx-font-size: 11px; }
+.section-title { -fx-font-size: 16px; -fx-font-weight: bold; -fx-text-fill: #183546; }.primary-button { -fx-background-color: #138a72; -fx-text-fill: white; -fx-background-radius: 6; -fx-padding: 9 16; -fx-font-weight: bold; -fx-cursor: hand; }.primary-button:hover { -fx-background-color: #0f6f5b; }
+.table-view { -fx-background-color: white; -fx-background-radius: 8; -fx-border-color: #dce5e9; -fx-border-radius: 8; }.table-view .column-header { -fx-background-color: #edf3f4; -fx-font-weight: bold; }.form-grid { -fx-background-color: white; -fx-background-radius: 10; -fx-padding: 24; -fx-max-width: 680; }.text-field,.combo-box,.date-picker,.text-area { -fx-background-radius: 6; -fx-border-color: #bfd0d6; -fx-border-radius: 6; }.empty-state { -fx-background-color: white; -fx-background-radius: 10; -fx-padding: 28; -fx-max-width: 760; }.status-bar { -fx-background-color: #e8eff1; -fx-padding: 7 18; }.status { -fx-text-fill: #47616d; -fx-font-size: 12px; }
